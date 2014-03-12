@@ -1,5 +1,5 @@
-component {623b2a40-a996-11e3-a5e2-0800200c9a66} components/jappix.js
-contract @instantbird.org/purple/jappix;1 {623b2a40-a996-11e3-a5e2-0800200c9a66}
+component {a437c130-a9bc-11e3-a5e2-0800200c9a66} components/jappix.js
+contract @instantbird.org/purple/jappix;1 {a437c130-a9bc-11e3-a5e2-0800200c9a66}
 category im-protocol-plugin prpl-jappix @instantbird.org/purple/jappix;1
 
 skin prpl-jappix     classic/1.0 chrome/skin/
